@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-13",
+  "coupons": [
+    {
+      "name": "中薯条买一送一",
+      "price": 13.5,
+      "validStart": "2026-10-12 10:30",
+      "validEnd": "2026-10-16 23:59",
+      "note": "周一至周五 10:30-23:59",
+      "tags": [
+        "到店专用",
+        "外送专用"
+      ],
+      "source": "麦麦省",
+      "originalPrice": 14.5,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/a37dfab7d05a4393ba11ebb17a3af50c/%E4%B8%AD%E8%96%AF%E6%9D%A1%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790048424%3B1947728424%26q-key-time%3D1790048424%3B1947728424%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3Df86cecbf593f8c89666d3db602f97f0737c7b0e0"
+    },
+    {
+      "name": "王牌小食拼",
+      "price": 15.9,
+      "validStart": "2026-10-12 10:30",
+      "validEnd": "2026-10-16 23:59",
+      "note": "周一至周五 10:30-23:59",
+      "tags": [
+        "到店专用",
+        "外送专用"
+      ],
+      "source": "麦麦省",
+      "originalPrice": 25.0,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/a046a5d286874512a022cc6d2780cdd1/%E7%8E%8B%E7%89%8C%E5%B0%8F%E9%A3%9F%E6%8B%BC.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790048448%3B1947728448%26q-key-time%3D1790048448%3B1947728448%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3Df7b5168729aad0d25f929c28253a234b05b8a591"
+    },
+    {
+      "name": "9.9元中杯冰美式",
+      "price": 9.9,
+      "validStart": "2026-10-13 00:00",
+      "validEnd": "2026-10-19 23:59",
+      "tags": [
+        "到店专用",
+        "外送专用"
+      ],
+      "source": "麦麦省",
+      "originalPrice": 19.5,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/50c90755aa8e467dbf338b6d3d0a9f48/%E4%BC%98%E6%83%A0%E5%88%B8%E5%A4%A7%E5%8D%A1%E5%9B%BE%E7%89%87_1035%C3%97516px_1Mb.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1752487437%3B1910167437%26q-key-time%3D1752487437%3B1910167437%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3Dfe8365bde603c3dae13d221dd3adc8858aba082b"
+    },
+    {
+      "name": "人气麦旋风买一送一",
+      "price": 15.0,
+      "validStart": "2026-10-12 00:00",
+      "validEnd": "2026-10-18 23:59",
+      "note": "每日 10:00-22:00",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "麦麦省",
+      "originalPrice": 15.0,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/2de54d86f1e04b76a7386a743a0d59a7/%E6%9F%A0%E6%AA%AC%E7%9B%90%E6%B3%B7%E4%BB%BB%E9%80%89%E4%B8%80.png?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790574692%3B1948254692%26q-key-time%3D1790574692%3B1948254692%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D1cdcda3f657d75a632bcb5089cc44141324869a7"
+    },
+    {
+      "name": "高达芝士蛋堡早餐两件套",
+      "price": 9.9,
+      "validStart": "2026-10-14 05:00",
+      "validEnd": "2026-10-14 10:29",
+      "note": "仅限 10-14 当天早餐时段",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "早餐日历",
+      "originalPrice": 19.8,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/57eb3d3350084dccabcda61673ae0e1d/%E5%88%B8%E5%9B%BE_512x1035px-%E5%91%A8%E4%B8%89.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790155202%3B1947835202%26q-key-time%3D1790155202%3B1947835202%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D3d9b8d80038a028c6309d337ed99dc7986f9347e"
+    },
+    {
+      "name": "大脆鸡扒堡早餐两件套",
+      "price": 9.9,
+      "validStart": "2026-10-15 05:00",
+      "validEnd": "2026-10-15 10:29",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "早餐日历",
+      "originalPrice": 19.8,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/6329ad6c487343fea12d4bcef9278517/%E5%88%B8%E5%9B%BE_512x1035px-%E5%91%A8%E5%9B%9B.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790155239%3B1947835239%26q-key-time%3D1790155239%3B1947835239%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D9d4c26e228526d7c31e2513e3b4eaed56de4edc1"
+    },
+    {
+      "name": "火腿扒堡早餐两件套",
+      "price": 9.9,
+      "validStart": "2026-10-16 05:00",
+      "validEnd": "2026-10-16 10:29",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "早餐日历",
+      "originalPrice": 19.8,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/f32e0524912e475295817565d3254e59/%E5%88%B8%E5%9B%BE_512x1035px-%E5%91%A8%E4%BA%94.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790155255%3B1947835255%26q-key-time%3D1790155255%3B1947835255%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D71db2dfb4f290ce26bc607cb09a0fcaf99406240"
+    },
+    {
+      "name": "巧克力味厚松饼猪柳蛋套餐",
+      "price": 29.9,
+      "validStart": "2026-10-17 05:00",
+      "validEnd": "2026-10-17 10:29",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "早餐日历",
+      "originalPrice": 42.0,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/9eafb9c904a74408892ef36eb7c0665d/%E5%88%B8%E5%9B%BE_512x1035px-3.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1789975963%3B1947655963%26q-key-time%3D1789975963%3B1947655963%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3Db06fd8e804c8a0f6463c0be39194e9acd75822c7"
+    },
+    {
+      "name": "巧克力味厚松饼猪柳蛋套餐",
+      "price": 29.9,
+      "validStart": "2026-10-18 05:00",
+      "validEnd": "2026-10-18 10:29",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "早餐日历",
+      "originalPrice": 42.0,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/e4926eb94c06486a80edb431eeac9652/%E5%88%B8%E5%9B%BE_512x1035px-4.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1789975994%3B1947655994%26q-key-time%3D1789975994%3B1947655994%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3Dc327130e14cd3bed47451dd9975303be3ed6d0da"
+    },
+    {
+      "name": "火腿扒堡早餐两件套",
+      "price": 9.9,
+      "validStart": "2026-10-19 05:00",
+      "validEnd": "2026-10-19 10:29",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "早餐日历",
+      "originalPrice": 19.8,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/bdd8844ad8fa4bab87a4b6e22e407c45/%E5%88%B8%E5%9B%BE_512x1035px-%E5%91%A8%E4%B8%80.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790155274%3B1947835274%26q-key-time%3D1790155274%3B1947835274%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D2eec64d9c1a97dd7b2c48c720fb95cf0f676a428"
+    },
+    {
+      "name": "芝香脆鸡扒堡早餐两件套",
+      "price": 9.9,
+      "validStart": "2026-10-20 05:00",
+      "validEnd": "2026-10-20 10:29",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "早餐日历",
+      "originalPrice": 19.8,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/8ee54d0ce51c4d2482003fa97b2cf1ca/%E5%88%B8%E5%9B%BE_512x1035px-%E5%91%A8%E4%BA%8C.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790155294%3B1947835294%26q-key-time%3D1790155294%3B1947835294%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3Dc6bd6740ead31c9d80be215de32b5f3921e6c454"
+    },
+    {
+      "name": "高达芝士蛋堡早餐两件套",
+      "price": 9.9,
+      "validStart": "2026-10-21 05:00",
+      "validEnd": "2026-10-21 10:29",
+      "tags": [
+        "到店专用"
+      ],
+      "source": "早餐日历",
+      "originalPrice": 19.8,
+      "image": "https://mcd-portal-prod-cos1-1300270282.cos.ap-shanghai.myqcloud.com/campaign/prod/campaign-offer/coupon/d0fecf940a854cd69344178571bb3547/%E5%88%B8%E5%9B%BE_512x1035px-%E5%91%A8%E4%B8%89.jpg?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDCD6mEcX25tVrjNxiPvEICas0uXyBKIBs%26q-sign-time%3D1790155324%3B1947835324%26q-key-time%3D1790155324%3B1947835324%26q-header-list%3D%26q-url-param-list%3D%26q-signature%3D672824e50738ad8f00e9b12b1edcc9c1a558a051"
+    }
+  ],
+  "points": {
+    "available": 88.9,
+    "expireThisMonth": 0,
+    "expireNextMonth": 0
+  }
+}
