@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/banner.svg" alt="麦麦每日领券管家 · MCD Daily Coupon Butler" width="880">
+</div>
+
 # 🎫 麦麦每日领券管家 · MCD Daily Coupon Butler
 
 > 🌟 **正在参加「麦当劳程序员节创意开发大赛」，榜单按 ⭐ Star 数排名**
