@@ -79,7 +79,7 @@ git clone https://github.com/qufuhcj/mcd-daily-coupon-butler.git ~/.workbuddy/sk
 ### 4️⃣ 配上"每天自动"（WorkBuddy 用户）
 安装后对 WorkBuddy 说一句：
 ```
-每天早上 9 点帮我执行麦麦领券管家流程，生成每日券资产日报
+每天早上 10:30 帮我执行麦麦领券管家流程，生成每日券资产日报
 ```
 WorkBuddy 会创建定时任务：自动领券 → 盘点 → 生成日报。**从此领券这件事，从你的待办里消失了。**
 
